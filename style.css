@@ -1,12 +1,12 @@
 /* ---------- Base ---------- */
 :root {
-    --navy: #186ddc;
-    --navy-dark: #062957;
-    --gold: #c9a227;
-    --ink: #040911;
-    --muted: #151617;
-    --line: #eef1f5;
-    --bg: #be8888;
+    --navy: #0f2a4a;
+    --navy-dark: #0a1d34;
+    --gold: #514418;
+    --ink: #1c2431;
+    --muted: #5d6b7d;
+    --line: #e3e8ee;
+    --bg: #853a3a;
     --bg-alt: #f6f8fa;
     --radius: 10px;
     --wrap: 1100px;
