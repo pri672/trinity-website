@@ -1,12 +1,12 @@
 /* ---------- Base ---------- */
 :root {
-    --navy: #0f2a4a;
-    --navy-dark: #0a1d34;
+    --navy: #186ddc;
+    --navy-dark: #062957;
     --gold: #c9a227;
-    --ink: #1c2431;
-    --muted: #5d6b7d;
-    --line: #e3e8ee;
-    --bg: #ffffff;
+    --ink: #040911;
+    --muted: #151617;
+    --line: #eef1f5;
+    --bg: #be8888;
     --bg-alt: #f6f8fa;
     --radius: 10px;
     --wrap: 1100px;
@@ -56,12 +56,12 @@ a { color: inherit; text-decoration: none; }
 
 .btn-ghost {
     background: transparent;
-    color: #fff;
-    border: 1.5px solid rgba(255,255,255,.5);
+    color: #f5f1f1;
+    border: 1.5px solid rgba(32, 6, 6, 0.5);
 }
-.btn-ghost:hover { background: rgba(255,255,255,.12); box-shadow: none; }
+.btn-ghost:hover { background: rgba(199, 101, 101, 0.12); box-shadow: none; }
 
-.btn-light { background: #fff; color: var(--navy); }
+.btn-light { background: #f0efef; color: var(--navy); }
 .btn-light:hover { background: #f1f4f8; box-shadow: 0 8px 20px rgba(0,0,0,.18); }
 
 .btn-small { padding: 9px 20px; font-size: .92rem; }
